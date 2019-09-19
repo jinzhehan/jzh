@@ -27,4 +27,4 @@
 | :--- | ---: |
 | 谢谢 | 嘿嘿 |
 
-使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
+使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑     哈哈哈
